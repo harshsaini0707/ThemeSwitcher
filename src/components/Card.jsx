@@ -1,5 +1,5 @@
 import React from 'react'
-import Groot from '/home/harsh/VS FULLSTACK/React/ThemeSwitcher/src/assets/image.jpg'
+import Groot from './../assets/image.jpg'
 
 export default function Card() {
     return (
